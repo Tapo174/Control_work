@@ -1,0 +1,7 @@
+package code.Model;
+
+public class Hamster extends Pet{
+
+    public Hamster() {
+    }
+}
